@@ -38,9 +38,9 @@ export default function Home() {
           </a>
 
           <a
-            href=''
+            href='https://extraordinary-pixie-c1c5a4.netlify.app'
             className='card'>
-            <h3>Project Resources&rarr;</h3>
+            <h3>Wordle&rarr;</h3>
             <p>
               Wordle! A recreation of the New York Times game.
             </p>
