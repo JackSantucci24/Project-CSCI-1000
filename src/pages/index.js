@@ -9,22 +9,41 @@ export default function Home() {
       </Head>
 
       <main>
-        <h1 className='title'>Congratulations! You've set up your webapp!</h1>
+        <h1 className='title'>CSCI 1000 Group Project: Wordle</h1>
 
         <p className='description'>
-          Get started by editing <code>src/pages/index.js</code> to be your
-          project home page.
+          A group project by Jack Santucci, Nick Oliver, Aidan Livingston, and Jack Callan.
         </p>
         <p className='description2'>
-          Next, each team member will create their own about me file in the
-          pages directory:{' '}
+          Read "About Me" pages for the group members below, or play wordle!
         </p>
         <code>src/page/teamMemberName.js</code>
 
         <div className='grid'>
-          <a href='/TomHolland ' className='card'>
-            <h3>Example About Me Page &rarr;</h3>
-            <p>Click here to navigate to an example page</p>
+          <a href='/JackSantucci ' className='card'>
+            <h3>Jack Santucci About Me Page &rarr;</h3>
+            <p>Click here to navigate to Jack's page</p>
+          </a>
+          <a href='/NickOliver ' className='card'>
+            <h3>Nick Oliver about Me Page &rarr;</h3>
+            <p>Click here to navigate to Nick Oliver's page</p>
+          </a>
+          <a href='/JackCallan ' className='card'>
+            <h3>Jack Callan Page &rarr;</h3>
+            <p>Click here to navigate to Jack Callan's page</p>
+          </a>
+          <a href='/AidanLivingston ' className='card'>
+            <h3>Aidan Livingston Page &rarr;</h3>
+            <p>Click here to navigate to Aidan Livingston's page</p>
+          </a>
+
+          <a
+            href=''
+            className='card'>
+            <h3>Project Resources&rarr;</h3>
+            <p>
+              Wordle! A recreation of the New York Times game.
+            </p>
           </a>
 
           <a
