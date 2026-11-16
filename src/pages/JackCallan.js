@@ -6,11 +6,12 @@ export default function examplePage() {
 
         <main>
           <div className='underline'>
-            <h1 className='title'>Hey, I'm Jack Callan </h1>
-          </div>
+            <h1 className='title'> I'm Jack Callan </h1>
+          </div>My name is Jack Callan, and I am a Computer Science major at the University of Colorado Boulder. I am an mountain biker, skier, and snowboarder. 
+          I am also a staff photographer for the CU Independent and a member of the CU Boulder Taekwondo team, where I compete at the national level.
           <img
             className='pic'
-            src='https://upload.wikimedia.org/wikipedia/commons/8/85/Smiley.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original'
+            src='https://upload.wikimedia.org/https://www.linkedin.com/in/jackhcallan/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BG6a6GL%2BRRhutKbFju7%2Fg5Q%3D%3D/commons/8/85/Smiley.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original'
             alt='Jack Callan'
           />
 
